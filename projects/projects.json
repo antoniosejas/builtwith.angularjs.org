@@ -1,6 +1,28 @@
 {
-  "featured": "YouTube on PS3",
+  "featured": "Cities in motion 2014",
   "projects": [
+  {
+    "name": "Cities in motion 2014",
+    "thumb": "cities-in-motion/cim.jpg",
+    "desc": "World Map with a comparative about quality life in 135 different cities. It also shows two type of fancy graphs. This project belongs to IESE.",
+    "url": "http://citiesinmotion.iese.edu/",
+    "info": "http://antonio.sejas.es",
+    "submitter": "antoniosejas",
+    "submissionDate": "2014-04-14", 
+    "tags": [
+      "Production"
+      ,"Animations"
+      ,"CSS3D"
+      ,"CSS3"
+      ,"Graphs"
+      ,"Graphics"
+      ,"jQuery"
+      ,"RequireJs"
+      ,"HTML5"
+      ,"Responsive"
+      ,"World Information"
+    ]
+  },
   {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
